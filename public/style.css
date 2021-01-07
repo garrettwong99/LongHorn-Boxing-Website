@@ -629,7 +629,7 @@ html {
 .contact-left {
   width: 35%;
   background: linear-gradient(rgba(15, 15, 15, 0.6), rgba(22, 22, 22, 0.9)),
-    url(images/contact-bg.jpg) center no-repeat;
+    url(images/background_email.jfif) center no-repeat;
   background-size: cover;
 }
 
@@ -816,22 +816,6 @@ html {
 
   .service:nth-child(2) {
     grid-column: 2 / 6;
-  }
-
-  .service:nth-child(3) {
-    grid-column: 3 / 7;
-  }
-
-  .service:nth-child(4) {
-    grid-column: 11 / 15;
-  }
-
-  .service:nth-child(5) {
-    grid-column: 12 / 16;
-  }
-
-  .service:nth-child(6) {
-    grid-column: 11 / 15;
   }
 }
 
